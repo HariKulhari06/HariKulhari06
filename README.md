@@ -7,3 +7,4 @@ Enthusiast on clean, modular and components architecture, focused on make softwa
 I love collaborating with open source, keep me update with the community tendencies, writing technical articles, make personal projects and participating in hackathons or any type of challenges. 
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/hari-singh-kulhari/)
+[![Twitter](https://img.shields.io/badge/-twitter-grey?logo=twitter)](https://twitter.com/harikulhari)
