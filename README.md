@@ -38,5 +38,5 @@
 <hr>                                                                                      
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marisabrantley&show_icons=true&theme=graywhite">
+<img src="https://github-readme-stats.vercel.app/api?username=harikulhari06&show_icons=true&theme=graywhite">
 </p>
